@@ -1,0 +1,101 @@
+Date,Store ID,Product ID,Category,Region,Inventory Level,Recent_Demand,Demand_Std,Safety_Stock,Reorder_Point,Suggested_Order,Stockout_Probability,Stockout_Risk,Inventory_Status,Recommendation
+2024-01-30,S005,P0002,Electronics,North,156,95.86,17.68,50.52,338.09,182,0.11,High Risk,Reorder Required,Urgent Reorder
+2024-01-30,S002,P0016,Clothing,South,88,102.71,28.24,80.69,388.84,301,0.03,Low Risk,Reorder Required,Order Stock
+2024-01-30,S002,P0011,Groceries,South,73,97.86,32.85,93.88,387.45,314,0.02,Low Risk,Reorder Required,Order Stock
+2024-01-30,S003,P0010,Groceries,East,111,109.57,63.25,180.76,509.48,398,0.02,Low Risk,Reorder Required,Order Stock
+2024-01-30,S005,P0014,Furniture,North,161,76.43,20.12,57.49,286.77,126,0.02,Low Risk,Reorder Required,Order Stock
+2024-01-30,S003,P0009,Groceries,East,123,141.86,38.32,109.52,535.09,412,0.02,Low Risk,Reorder Required,Order Stock
+2024-01-30,S003,P0011,Electronics,East,143,100.14,10.92,31.19,331.62,189,0.02,Low Risk,Reorder Required,Order Stock
+2024-01-30,S003,P0020,Clothing,East,113,124.0,32.35,92.46,464.46,351,0.02,Low Risk,Reorder Required,Order Stock
+2024-01-30,S002,P0005,Electronics,South,552,111.57,37.37,106.8,441.52,0,0.02,Low Risk,Sufficient Inventory,No Order Required
+2024-01-30,S002,P0013,Groceries,South,125,119.0,19.4,55.44,412.44,287,0.01,Low Risk,Reorder Required,Order Stock
+2024-01-30,S002,P0014,Electronics,South,676,95.0,34.16,97.63,382.63,0,0.01,Low Risk,Sufficient Inventory,No Order Required
+2024-01-30,S002,P0008,Groceries,South,85,131.29,24.96,71.35,465.2,380,0.01,Low Risk,Reorder Required,Order Stock
+2024-01-30,S005,P0019,Furniture,North,125,75.57,17.04,48.69,275.41,150,0.01,Low Risk,Reorder Required,Order Stock
+2024-01-30,S004,P0020,Furniture,West,79,65.14,11.07,31.63,227.06,148,0.01,Low Risk,Reorder Required,Order Stock
+2024-01-30,S005,P0010,Groceries,North,115,92.14,37.26,106.49,382.92,268,0.01,Low Risk,Reorder Required,Order Stock
+2024-01-30,S003,P0015,Groceries,East,413,141.43,38.37,109.65,533.93,121,0.01,Low Risk,Reorder Required,Order Stock
+2024-01-30,S003,P0016,Electronics,East,161,109.29,34.6,98.87,426.73,266,0.01,Low Risk,Reorder Required,Order Stock
+2024-01-30,S004,P0004,Groceries,West,439,148.43,36.95,105.6,550.88,112,0.01,Low Risk,Reorder Required,Order Stock
+2024-01-30,S003,P0019,Groceries,East,108,119.14,42.03,120.13,477.56,370,0.01,Low Risk,Reorder Required,Order Stock
+2024-01-30,S003,P0014,Groceries,East,350,108.71,23.82,68.07,394.21,44,0.01,Low Risk,Reorder Required,Order Stock
+2024-01-30,S005,P0009,Groceries,North,136,90.0,29.79,85.15,355.15,219,0.01,Low Risk,Reorder Required,Order Stock
+2024-01-30,S003,P0004,Groceries,East,552,135.0,41.0,117.16,522.16,0,0.0,Low Risk,Sufficient Inventory,No Order Required
+2024-01-30,S003,P0003,Electronics,East,95,123.14,36.2,103.44,472.87,378,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S005,P0018,Clothing,North,197,149.43,29.24,83.56,531.85,335,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S002,P0007,Toys,South,414,113.71,41.37,118.22,459.37,45,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S002,P0006,Clothing,South,98,146.57,49.56,141.64,581.35,483,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S002,P0012,Electronics,South,423,84.29,20.69,59.14,312.0,0,0.0,Low Risk,Sufficient Inventory,No Order Required
+2024-01-30,S002,P0010,Groceries,South,143,127.57,26.12,74.65,457.36,314,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S002,P0015,Clothing,South,1039,124.71,52.27,149.39,523.54,0,0.0,Low Risk,Sufficient Inventory,No Order Required
+2024-01-30,S002,P0017,Toys,South,204,92.57,18.36,52.46,330.17,126,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S002,P0018,Clothing,South,61,131.29,53.61,153.22,547.07,486,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S002,P0019,Clothing,South,339,127.43,29.62,84.66,466.95,128,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S002,P0020,Furniture,South,332,73.14,38.21,109.19,328.62,0,0.0,Low Risk,Sufficient Inventory,No Order Required
+2024-01-30,S003,P0001,Toys,East,207,84.29,23.94,68.4,321.26,114,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S003,P0002,Groceries,East,327,98.43,25.15,71.86,367.15,40,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S002,P0009,Groceries,South,153,139.86,70.94,202.74,622.32,469,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S001,P0009,Clothing,North,128,153.14,41.46,118.5,577.92,450,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S001,P0008,Electronics,North,162,105.71,11.18,31.94,349.08,187,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S001,P0007,Groceries,North,476,103.29,52.77,150.82,460.67,0,0.0,Low Risk,Sufficient Inventory,No Order Required
+2024-01-30,S001,P0006,Toys,North,436,98.14,41.59,118.87,413.3,0,0.0,Low Risk,Sufficient Inventory,No Order Required
+2024-01-30,S001,P0005,Groceries,North,946,133.14,41.28,117.98,517.41,0,0.0,Low Risk,Sufficient Inventory,No Order Required
+2024-01-30,S001,P0004,Electronics,North,241,87.86,31.4,89.73,353.3,112,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S001,P0003,Clothing,North,434,158.29,67.75,193.63,668.49,234,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S001,P0002,Clothing,North,136,108.43,34.1,97.46,422.75,287,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S001,P0001,Electronics,North,383,103.57,28.16,80.48,391.19,8,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S002,P0002,Toys,South,515,95.86,49.26,140.78,428.35,0,0.0,Low Risk,Sufficient Inventory,No Order Required
+2024-01-30,S002,P0004,Groceries,South,129,122.29,10.16,29.04,395.89,267,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S003,P0007,Groceries,East,187,106.71,40.21,114.92,435.06,248,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S003,P0006,Toys,East,156,118.29,29.11,83.19,438.04,282,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S003,P0005,Toys,East,782,85.14,36.6,104.61,360.04,0,0.0,Low Risk,Sufficient Inventory,No Order Required
+2024-01-30,S001,P0010,Furniture,North,518,87.29,28.4,81.16,343.02,0,0.0,Low Risk,Sufficient Inventory,No Order Required
+2024-01-30,S001,P0011,Furniture,North,204,88.86,33.03,94.4,360.97,157,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S003,P0008,Clothing,East,170,129.71,41.38,118.25,507.39,337,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S002,P0003,Groceries,South,388,117.43,41.42,118.36,470.65,83,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S001,P0020,Furniture,North,333,76.57,16.68,47.67,277.39,0,0.0,Low Risk,Sufficient Inventory,No Order Required
+2024-01-30,S002,P0001,Groceries,South,569,97.86,40.44,115.58,409.15,0,0.0,Low Risk,Sufficient Inventory,No Order Required
+2024-01-30,S004,P0019,Clothing,West,219,109.43,69.99,200.02,528.31,309,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S005,P0001,Groceries,North,267,137.14,68.5,195.78,607.21,340,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S004,P0018,Furniture,West,97,75.14,22.59,64.57,290.0,193,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S004,P0017,Clothing,West,166,111.71,47.73,136.41,471.55,306,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S001,P0017,Toys,North,186,108.57,22.27,63.65,389.36,203,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S001,P0016,Groceries,North,225,118.71,32.25,92.16,448.3,223,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S001,P0018,Groceries,North,130,153.86,49.32,140.96,602.53,473,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S001,P0019,Furniture,North,110,105.14,38.34,109.58,425.01,315,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S001,P0014,Groceries,North,660,107.86,49.31,140.91,464.48,0,0.0,Low Risk,Sufficient Inventory,No Order Required
+2024-01-30,S001,P0015,Toys,North,80,119.43,35.4,101.16,459.45,379,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S001,P0012,Groceries,North,396,126.0,34.97,99.93,477.93,82,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S001,P0013,Toys,North,91,99.43,37.94,108.43,406.72,316,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S005,P0012,Furniture,North,375,67.43,33.49,95.7,297.98,0,0.0,Low Risk,Sufficient Inventory,No Order Required
+2024-01-30,S005,P0011,Electronics,North,269,90.43,23.33,66.67,337.96,69,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S005,P0007,Groceries,North,261,82.57,32.08,91.67,339.39,78,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S005,P0008,Groceries,North,154,139.43,17.1,48.86,467.15,313,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S005,P0006,Groceries,North,266,121.43,34.35,98.17,462.46,196,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S005,P0005,Groceries,North,288,134.0,59.75,170.75,572.75,285,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S005,P0003,Toys,North,212,93.71,31.57,90.23,371.38,159,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S005,P0004,Groceries,North,141,129.14,36.22,103.52,490.95,350,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S004,P0015,Furniture,West,292,82.43,23.92,68.35,315.63,24,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S004,P0016,Furniture,West,153,80.0,9.36,26.76,266.76,114,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S005,P0017,Toys,North,137,94.86,33.81,96.63,381.2,244,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S004,P0013,Groceries,West,389,146.0,36.08,103.11,541.11,152,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S003,P0013,Groceries,East,781,111.57,60.2,172.03,506.75,0,0.0,Low Risk,Sufficient Inventory,No Order Required
+2024-01-30,S005,P0016,Toys,North,233,88.71,33.6,96.02,362.17,129,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S005,P0015,Groceries,North,520,128.71,34.73,99.24,485.39,0,0.0,Low Risk,Sufficient Inventory,No Order Required
+2024-01-30,S005,P0013,Groceries,North,792,139.29,26.27,75.08,492.94,0,0.0,Low Risk,Sufficient Inventory,No Order Required
+2024-01-30,S003,P0018,Furniture,East,652,81.0,33.81,96.63,339.63,0,0.0,Low Risk,Sufficient Inventory,No Order Required
+2024-01-30,S003,P0017,Furniture,East,239,98.14,25.22,72.08,366.51,128,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S003,P0012,Furniture,East,286,94.29,24.8,70.87,353.72,68,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S004,P0001,Groceries,West,342,123.86,40.73,116.4,487.97,146,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S004,P0002,Groceries,West,273,115.14,29.73,84.96,430.39,157,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S004,P0003,Furniture,West,153,91.43,23.85,68.15,342.43,189,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S004,P0005,Clothing,West,184,124.0,55.71,159.22,531.22,347,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S004,P0006,Groceries,West,134,142.71,47.49,135.73,563.87,430,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S004,P0007,Groceries,West,574,124.43,52.47,149.94,523.23,0,0.0,Low Risk,Sufficient Inventory,No Order Required
+2024-01-30,S004,P0008,Furniture,West,92,84.86,13.33,38.11,292.68,201,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S004,P0009,Clothing,West,472,133.0,57.75,165.05,564.05,92,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S004,P0010,Groceries,West,247,125.43,13.15,37.58,413.87,167,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S004,P0011,Clothing,West,596,94.43,36.7,104.87,388.16,0,0.0,Low Risk,Sufficient Inventory,No Order Required
+2024-01-30,S004,P0012,Electronics,West,201,107.14,39.68,113.4,434.83,234,0.0,Low Risk,Reorder Required,Order Stock
+2024-01-30,S004,P0014,Furniture,West,379,88.29,24.32,69.49,334.35,0,0.0,Low Risk,Sufficient Inventory,No Order Required
+2024-01-30,S005,P0020,Toys,North,126,98.29,35.88,102.54,397.39,271,0.0,Low Risk,Reorder Required,Order Stock
