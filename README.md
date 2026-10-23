@@ -120,7 +120,7 @@ Install Python and the required libraries.
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_GITHUB_REPOSITORY_URL>
+git clone <https://github.com/yajat-17/retail-inventory-demand-forecasting>
 ```
 
 ### 2. Open the project folder
