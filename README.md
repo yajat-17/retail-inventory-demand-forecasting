@@ -123,13 +123,7 @@ Install Python and the required libraries.
 git clone <https://github.com/yajat-17/retail-inventory-demand-forecasting>
 ```
 
-### 2. Open the project folder
-
-```bash
-cd <YOUR_PROJECT_FOLDER>
-```
-
-### 3. Install dependencies
+### 2. Install dependencies
 
 If a `requirements.txt` file is available:
 
@@ -143,7 +137,7 @@ Otherwise, install the main libraries:
 pip install pandas numpy matplotlib seaborn scikit-learn streamlit
 ```
 
-### 4. Run the application
+### 3. Run the application
 
 If the Streamlit application is named `app.py`:
 
